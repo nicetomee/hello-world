@@ -1,9 +1,8 @@
 # hello-world
 hello.  
-へっぉ　　
-  
+へっぉ  
   
 nice to meet you.  
-にせとめえちょう　　
-
+にせとめえちょう  
+  
 http://github.com
