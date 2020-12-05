@@ -1,4 +1,11 @@
 # hello-world
 Just another repository
 
-test
+hello
+
+こんにちは
+
+
+nice to meet you
+
+にせとめえちょう
