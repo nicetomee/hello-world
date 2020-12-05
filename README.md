@@ -3,7 +3,7 @@ Just another repository
 
 hello
 
-こんにちは
+へっぉ
 
 
 nice to meet you
